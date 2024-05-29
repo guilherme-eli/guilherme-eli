@@ -6,7 +6,7 @@
 </div>
 
 
-<p>📘 Estudande de Desenvolvimneto de sistema e Analista de Dado pelo SENAC </p>
+<p>📘 Estudante de Desenvolvimento de sistema e Analista de Dado pelo SENAC  </p>
 <p>💻 Desenvolvedor full stack</p>
 <p>💻 Desenvolvedor Web </p>
 <p>🧑‍💼 Estou em busca de nova Oportunidade</p>
